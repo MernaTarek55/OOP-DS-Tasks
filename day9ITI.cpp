@@ -229,89 +229,97 @@ struct binarysearchtree {
 };
 
 int main() {
+    int i =-1;
+    while (i != 0) {
+        cout << "Please Enter 1 if you need to see queue \nPlease Enter 2 if you need to see BST\nPlease Enter 0 if you need to Exit" << endl;
+        cin >> i;
+        if (i == 1) {
+            student* s1 = new student{ "merna", 1, NULL };
+            student* s2 = new student{ "nabila", 2, NULL };
+            student* s3 = new student{ "nour", 3, NULL };
+            student* s4 = new student{ "nadeen", 4, NULL };
+            student* s5 = new student{ "Reem", 5, NULL };
 
+            queue q;
+            q.enqueue(s1);
+            q.enqueue(s2);
+            q.enqueue(s3);
+            q.enqueueWithIndex(s4, 1);
+            q.enqueueWithIndex(s5, 0);
 
-    student* s1 = new student{ "merna", 1, NULL };
-    student* s2 = new student{ "nabila", 2, NULL };
-    student* s3 = new student{ "nour", 3, NULL };
-    student* s4 = new student{ "nadeen", 4, NULL };
-    student* s5 = new student{ "Reem", 5, NULL };
+            int result = q.findwithid(2);
+            if (result == -1) {
+                cout << "Not found" << endl;
+            }
+            else {
+                cout << "Student with ID 2 found at index: " << result << endl;
+            }
 
-    queue q;
-    q.enqueue(s1);
-    q.enqueue(s2);
-    q.enqueue(s3);
-    q.enqueueWithIndex(s4, 1);
-    q.enqueueWithIndex(s5, 0);
-
-    int result = q.findwithid(2);
-    if (result == -1) {
-        cout << "Not found" << endl;
-    }
-    else {
-        cout << "Student with ID 2 found at index: " << result << endl;
-    }
-
-    for (int i = 0; i < 5; i++) {
-        student* dequeued = q.dequeue();
-        if (dequeued != NULL) {
-            cout << dequeued->name << endl;
-            delete dequeued; 
+            for (int i = 0; i < 5; i++) {
+                student* dequeued = q.dequeue();
+                if (dequeued != NULL) {
+                    cout << dequeued->name << endl;
+                    delete dequeued;
+                }
+            }
         }
+        else if (i == 2) {
+            studenttree st1, st2, st3, st4, st5;
+            st1.id = 10; st1.name = "mohamed";
+            st2.id = 2;  st2.name = "ahmed";
+            st3.id = 30; st3.name = "osama";
+            st4.id = 6;  st4.name = "hasan";
+            st5.id = 100;  st5.name = "yossef";
+
+            binarysearchtree bst;
+            bst.insert(&st1);
+            bst.insert(&st2);
+            bst.insert(&st3);
+            bst.insert(&st4);
+            bst.insert(&st5);
+            /*studenttree* st1 = new studenttree{"mohamed", 10, NULL, NULL};
+            studenttree* st2 = new studenttree{ "ahmed", 2, NULL, NULL };
+            studenttree* st3 = new studenttree{ "osama", 30, NULL, NULL };
+            studenttree* st4 = new studenttree{ "hasan", 6, NULL, NULL };
+            studenttree* st5 = new studenttree{ "yossef", 100, NULL, NULL };
+
+            binarysearchtree bst;
+            bst.insert(st1);
+            bst.insert(st2);
+            bst.insert(st3);
+            bst.insert(st4);
+            bst.insert(st5);*/
+            bst.printTree();
+            cout << "-----------------------------------------" << endl;
+            bst.remove(&st3);
+            bst.printTree();
+            cout << "-----------------------------------------" << endl;
+            bst.remove(&st4);
+            bst.printTree();
+            cout << "-----------------------------------------" << endl;
+            bst.remove(&st1);
+            bst.printTree();
+            studenttree* foundStudent = bst.findbyId(100);
+            if (foundStudent == NULL) {
+                cout << "Not found" << endl;
+            }
+            else {
+                cout << "Name: " << foundStudent->name << " Id: " << foundStudent->id << endl;
+            }
+
+            foundStudent = bst.findbyId(1);
+            if (foundStudent == NULL) {
+                cout << "Not found" << endl;
+            }
+            else {
+                cout << "Name: " << foundStudent->name << " Id: " << foundStudent->id << endl;
+
+
+            }
+        }
+        if (i == 0)break;
     }
 
-    studenttree st1, st2, st3, st4, st5;
-    st1.id = 10; st1.name = "mohamed";
-    st2.id = 2;  st2.name = "ahmed";
-    st3.id = 30; st3.name = "osama";
-    st4.id = 6;  st4.name = "hasan";
-    st5.id = 100;  st5.name = "yossef";
-
-    binarysearchtree bst;
-    bst.insert(&st1);
-    bst.insert(&st2);
-    bst.insert(&st3);
-    bst.insert(&st4);
-    bst.insert(&st5);
-    /*studenttree* st1 = new studenttree{"mohamed", 10, NULL, NULL};
-    studenttree* st2 = new studenttree{ "ahmed", 2, NULL, NULL };
-    studenttree* st3 = new studenttree{ "osama", 30, NULL, NULL };
-    studenttree* st4 = new studenttree{ "hasan", 6, NULL, NULL };
-    studenttree* st5 = new studenttree{ "yossef", 100, NULL, NULL };
-
-    binarysearchtree bst;
-    bst.insert(st1);
-    bst.insert(st2);
-    bst.insert(st3);
-    bst.insert(st4);
-    bst.insert(st5);*/
-    bst.printTree();
-    cout << "-----------------------------------------" << endl;
-    bst.remove(&st3);
-    bst.printTree();
-    cout << "-----------------------------------------" << endl;
-    bst.remove(&st4);
-    bst.printTree();
-    cout << "-----------------------------------------" << endl;
-    bst.remove(&st1);
-    bst.printTree();
-    studenttree* foundStudent = bst.findbyId(100);
-    if (foundStudent == NULL) {
-        cout << "Not found" << endl;
-    }
-    else {
-        cout << "Name: " << foundStudent->name << " Id: " << foundStudent->id << endl;
-    }
-
-    foundStudent = bst.findbyId(1);
-    if (foundStudent == NULL) {
-        cout << "Not found" << endl;
-    }
-    else {
-        cout << "Name: " << foundStudent->name << " Id: " << foundStudent->id << endl;
-
-
-    }
-
+    
     return 0;
 }
