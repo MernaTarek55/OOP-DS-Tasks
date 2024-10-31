@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\Bouns.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|solutionrelative:Bouns.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\enviroment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|solutionrelative:enviroment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|solutionrelative:player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|solutionrelative:player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\enviroment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|solutionrelative:enviroment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\Day10ITI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|solutionrelative:Day10ITI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\ComplexNum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|solutionrelative:ComplexNum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\ComplexNum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB879A5-8130-45C8-912D-6693FCA3B85C}|Day10ITI.vcxproj|solutionrelative:ComplexNum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enviroment.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\enviroment.h",
+              "RelativeDocumentMoniker": "enviroment.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\enviroment.h",
+              "RelativeToolTip": "enviroment.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T13:55:57.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enviroment.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\enviroment.cpp",
+              "RelativeDocumentMoniker": "enviroment.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\enviroment.cpp",
+              "RelativeToolTip": "enviroment.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T13:57:19.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\player.cpp",
+              "RelativeDocumentMoniker": "player.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\player.cpp",
+              "RelativeToolTip": "player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T13:50:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\player.h",
+              "RelativeDocumentMoniker": "player.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\player.h",
+              "RelativeToolTip": "player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T13:46:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bouns.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\Bouns.cpp",
+              "RelativeDocumentMoniker": "Bouns.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\Bouns.cpp",
+              "RelativeToolTip": "Bouns.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T13:46:15.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComplexNum.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\ComplexNum.cpp",
+              "RelativeDocumentMoniker": "ComplexNum.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\ComplexNum.cpp",
+              "RelativeToolTip": "ComplexNum.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T08:51:46.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComplexNum.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\ComplexNum.h",
+              "RelativeDocumentMoniker": "ComplexNum.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\ComplexNum.h",
+              "RelativeToolTip": "ComplexNum.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T08:51:15.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Day10ITI.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\Day10ITI.cpp",
+              "RelativeDocumentMoniker": "Day10ITI.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Day10ITI\\Day10ITI.cpp",
+              "RelativeToolTip": "Day10ITI.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T08:50:50.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
