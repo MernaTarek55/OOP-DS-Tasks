@@ -1,0 +1,5 @@
+﻿  Day13ITI.cpp
+C:\Users\Merna Tarek\Desktop\Day13ITI\Day13ITI.cpp(18,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Merna Tarek\Desktop\Day13ITI\Day13ITI.cpp(27,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Merna Tarek\Desktop\Day13ITI\Day13ITI.cpp(36,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Day13ITI.vcxproj -> C:\Users\Merna Tarek\Desktop\Day13ITI\x64\Debug\Day13ITI.exe

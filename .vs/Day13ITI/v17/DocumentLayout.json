@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Merna Tarek\\Desktop\\Day13ITI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051F4B09-552C-4213-A9EB-753FC0432E44}|Day13ITI.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Day13ITI\\Day13ITI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051F4B09-552C-4213-A9EB-753FC0432E44}|Day13ITI.vcxproj|solutionrelative:Day13ITI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day13ITI.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Day13ITI\\Day13ITI.cpp",
+              "RelativeDocumentMoniker": "Day13ITI.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Day13ITI\\Day13ITI.cpp*",
+              "RelativeToolTip": "Day13ITI.cpp*",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T07:10:50.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
