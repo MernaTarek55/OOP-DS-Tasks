@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Merna Tarek\\Desktop\\Snake SP version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\Snake SP version\\Snake SP version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Snake SP version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake SP version.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\Snake SP version\\Snake SP version.cpp",
+              "RelativeDocumentMoniker": "Snake SP version.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\Snake SP version\\Snake SP version.cpp",
+              "RelativeToolTip": "Snake SP version.cpp",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAswGQBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T13:26:01.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
