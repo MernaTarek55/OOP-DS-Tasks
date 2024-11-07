@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Snake SP version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Snake SP version.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\NPCSnake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:NPCSnake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Collectable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Collectable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Collectable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Collectable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\GameManger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:GameManger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\GameManger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:GameManger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\NPCSnake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA25B394-78E1-499E-A406-5CE1987F1A9D}|Snake SP version.vcxproj|solutionrelative:NPCSnake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake SP version.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Snake SP version.cpp",
+              "RelativeDocumentMoniker": "Snake SP version.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Snake SP version.cpp",
+              "RelativeToolTip": "Snake SP version.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T13:26:01.162Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AQIAANgAAAAAAAAAAAAmwOYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T13:14:48.729Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T13:09:17.901Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NPCSnake.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\NPCSnake.cpp",
+              "RelativeDocumentMoniker": "NPCSnake.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\NPCSnake.cpp",
+              "RelativeToolTip": "NPCSnake.cpp",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T07:34:29.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Map.cpp",
+              "RelativeDocumentMoniker": "Map.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Map.cpp",
+              "RelativeToolTip": "Map.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T11:47:47.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Collectable.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Collectable.h",
+              "RelativeDocumentMoniker": "Collectable.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Collectable.h",
+              "RelativeToolTip": "Collectable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T12:47:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Obstacle.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Obstacle.cpp",
+              "RelativeDocumentMoniker": "Obstacle.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Obstacle.cpp",
+              "RelativeToolTip": "Obstacle.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T17:01:50.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Snake.cpp",
+              "RelativeDocumentMoniker": "Snake.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Snake.cpp",
+              "RelativeToolTip": "Snake.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T08:35:56.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Obstacle.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Obstacle.h",
+              "RelativeDocumentMoniker": "Obstacle.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Obstacle.h",
+              "RelativeToolTip": "Obstacle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T17:01:13.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Collectable.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Collectable.cpp",
+              "RelativeDocumentMoniker": "Collectable.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Collectable.cpp",
+              "RelativeToolTip": "Collectable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T12:53:15.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Map.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Map.h",
+              "RelativeDocumentMoniker": "Map.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Map.h",
+              "RelativeToolTip": "Map.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T11:46:11.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Snake.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Snake.h",
+              "RelativeDocumentMoniker": "Snake.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\Snake.h",
+              "RelativeToolTip": "Snake.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T17:18:52.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameManger.cpp",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\GameManger.cpp",
+              "RelativeDocumentMoniker": "GameManger.cpp",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\GameManger.cpp",
+              "RelativeToolTip": "GameManger.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T12:14:36.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameManger.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\GameManger.h",
+              "RelativeDocumentMoniker": "GameManger.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\GameManger.h",
+              "RelativeToolTip": "GameManger.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T11:51:57.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NPCSnake.h",
+              "DocumentMoniker": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\NPCSnake.h",
+              "RelativeDocumentMoniker": "NPCSnake.h",
+              "ToolTip": "C:\\Users\\Merna Tarek\\Desktop\\New folder\\Snake SP version\\NPCSnake.h",
+              "RelativeToolTip": "NPCSnake.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T07:34:16.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

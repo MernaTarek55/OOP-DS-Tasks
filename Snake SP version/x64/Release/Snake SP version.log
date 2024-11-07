@@ -1,0 +1,51 @@
+﻿  Collectable.cpp
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Collectable.cpp(9,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Collectable.cpp(9,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,62): warning C4244:         with
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,62): warning C4244:         [
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,62): warning C4244:             T=float
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,62): warning C4244:         ]
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,43): warning C4244:         with
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,43): warning C4244:         [
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,43): warning C4244:             T=float
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Game.cpp(27,43): warning C4244:         ]
+  GameManger.cpp
+  Map.cpp
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Map.cpp(38,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Map.cpp(65,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Map.cpp(65,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  NPCSnake.cpp
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\NPCSnake.cpp(51,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Obstacle.cpp
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Obstacle.cpp(55,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Obstacle.cpp(55,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake SP version.cpp
+  Snake.cpp
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,44): warning C4244:         with
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,44): warning C4244:         [
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,44): warning C4244:             T=int
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,44): warning C4244:         ]
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,36): warning C4244:         with
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,36): warning C4244:         [
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,36): warning C4244:             T=int
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(72,36): warning C4244:         ]
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,40): warning C4244:         with
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,40): warning C4244:         [
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,40): warning C4244:             T=int
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,40): warning C4244:         ]
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,32): warning C4244:         with
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,32): warning C4244:         [
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,32): warning C4244:             T=int
+C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\Snake.cpp(145,32): warning C4244:         ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 322 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake SP version.vcxproj -> C:\Users\Merna Tarek\Desktop\New folder\Snake SP version\x64\Release\Snake SP version.exe
